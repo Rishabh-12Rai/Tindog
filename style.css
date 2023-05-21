@@ -14,7 +14,7 @@
     padding-top: 3%;
     padding-left:  15%;
     padding-right: 15%;
-    padding-bottom: 10%;    
+    padding-bottom: 15%;    
 }
 h1{
     font-family: 'Montserrat';
@@ -38,7 +38,6 @@ h1{
 .dog{
     padding-top: 2%;
     width: 30%;
-    height: 99%;
     transform: rotate(20deg);
     position: absolute;
 }
